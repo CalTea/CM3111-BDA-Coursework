@@ -3,6 +3,6 @@ Created By: Callum Thomson
 
 CourseWork for Big Data Analytics. Dataset focuses on diabetes predictions.
 
-Project was made through Juypter Notebook.
+Project was made through Jupyter Notebook.
 
 LaTeX used for Notebook to PDF file conversion. Can be downloaded Here: https://www.latex-project.org/get/
